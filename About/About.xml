@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Pass Through Crematorium</name>
+	<author>Brassqund</author>
+	<targetVersion>0.16.1393</targetVersion>
+	<description>Make you able to move through the crematorium, so corpses don't stay stuck on it.</description>
+</ModMetaData>
